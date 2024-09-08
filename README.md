@@ -4,7 +4,7 @@
 библиотека requsts скачивается отдельно
 xml встроенное
 
-```
+```ruby
 import aiogram
 import requests
 from xml.etree import ElementTree
